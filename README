@@ -1,1 +1,5 @@
 Criação de scripts de teste utilizando o framework Requests com a API de treinamento PetStore (https://petstore.swagger.io), para as entidades Pet User e Store.
+
+
+GRAVAÇÃO TESTES test_post_user_ddt.robot E test_delete_user_ddt.robot
+https://www.loom.com/share/3aaf775832fd48b2aaa5971b66ffb86a?sid=d42c53d2-2e02-4b3e-8e47-136352df61ab 
